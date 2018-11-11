@@ -172,5 +172,6 @@ for actor in actors:
 
 print(name)
 print(years)
+print(country)
 
 
